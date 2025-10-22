@@ -727,7 +727,7 @@ const ImageIdentifier = () => {
                       </div>
                     </div>
                     <p className="text-gray-600 mt-2">
-                      Here's what our AI discovered about your image
+                      Here&apos;s what our AI discovered about your image
                     </p>
                   </div>
                   
