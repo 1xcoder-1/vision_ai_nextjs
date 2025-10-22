@@ -121,18 +121,3 @@ This project can be easily deployed on platforms like Vercel or Netlify. Make su
 - Add export options for analysis results
 - Implement sharing capabilities for analysis results
 
-## Contributors
-
-- [Vetrivel Ravi](https://youtube.com/@vetrivelravi)
-
-## License
-
-This project is licensed under the MIT License.
-
-## Screenshots
-
-### Landing Page
-![Image of the project](./snap/image1.png)
-
-### After Image Analysis
-![Image of the project](./snap/image2.png)
