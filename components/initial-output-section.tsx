@@ -51,7 +51,7 @@ const InitialOutputSection = ({
             No Analysis Yet
           </h3>
           <p className="text-gray-500 mb-6 max-w-md">
-            Upload an image and click "Analyze Image" to see detailed insights, keywords, and related questions.
+            Upload an image and click &quot;Analyze Image&quot; to see detailed insights, keywords, and related questions.
           </p>
           
           <div className="prose prose-blue max-w-none mb-6">
